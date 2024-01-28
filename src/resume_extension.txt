@@ -1,0 +1,45 @@
+symphony/http-foundation:
+    Symphony est un outil dans le développement d'application Symphonie, 
+    qui simplifie la gestion des requetes et des reponses HTTP, il offre
+    une abstraction puissante pour travailler de maniere propre avec le
+    protocole HTTP dans le contexte d'une application web.
+    
+twig/twig:
+    Twig est un moteur de modele pour PHP qui simplifie la creation de vues 
+    dans une application web. Le composant Twig est intégré dans le framework
+    Symphonie et est utilisé comme moteur de rendu de modèle par defaut.
+    Il fournit une syntaxe elegante et des fonctionnalites puissantes pour 
+    manipuler les donnees et construire des interfaces utilisateurs dynamiques.
+
+illuminate/database:
+    Illuminate Database est un composant du framework Laravel qui fournit un 
+    ensemble complet d'outils pour interagir avec des bases de données 
+    relationnelles. Il offre une API expressive et puissante pour effectuer 
+    des opérations de base de données de manière élégante. Il simplifie
+    considérablement l'interaction avec les bases de donnees en offrant des 
+    outils puissants.
+
+vlucas/valitron:
+    Valitron est une bibliothèque de validation légère pour PHP. Elle offre 
+    des fonctionnalités de validation puissantes et flexibles pour garantir 
+    que les données respectent les règles définies. Valitron simplifie le 
+    processus de validation des données en PHP en fournissant une syntaxe fluide, 
+    des règles intégrées et une personnalisation des messages, facilitant ainsi 
+    la création de formulaires et la vérification de la validité des données utilisateur.
+
+symphony/var_dumper:
+    Symfony VarDumper est un composant du framework Symfony qui facilite le débogage 
+    et l'inspection des variables PHP. Il fournit des fonctionnalités avancées pour 
+    afficher et analyser de manière détaillée les données, les objets et les 
+    structures complexes. C'est un composant puissant qui ameliore le processus 
+    de debogage en fournissant des informations detaillees et bien formatees 
+    sur les variables et les structures de donnees, ce qui facilite le diagnostic 
+    des problemes dans une application Symphony.
+
+friendsofphp/php-cs-fixer:
+    FriendsOfPHP/PHP-CS-Fixer est un outil de formatage de code pour PHP qui 
+    automatise le processus de standardisation et d'homogénéisation du style 
+    de code au sein d'un projet PHP. c'est un outil essentiel pour maintenir 
+    la cohérence du style de code dans les projets PHP, automatisant la correction 
+    des problèmes de formatage et facilitant l'adoption des normes de codage, 
+    notamment celles définies par la PHP-FIG (PSR).
